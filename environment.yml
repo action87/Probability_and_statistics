@@ -1,4 +1,4 @@
-name: /home/gabor/gabor/teaching/prob_and_stat/.conda
+name: prob_and_stat
 channels:
   - defaults
 dependencies:
