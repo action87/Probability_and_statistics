@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Conda & Virtual Environments ---
+.conda/
+conda-bld/
+.python-version
+.venv/
+venv/
+env/
